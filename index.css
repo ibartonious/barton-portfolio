@@ -164,7 +164,7 @@ header table {
 #rightImage {
     width:80%;
     height:100vh;
-    background-image: url('img/IMG_2811.JPG');
+    background:linear-gradient(0deg,rgba(255, 255, 255, 0),rgba(255, 255, 255, 0)),url("https://live.staticflickr.com/65535/49234962238_90fc8f2be0_b.jpg") center center;
     background-size: 700px;
     background-repeat:no-repeat;
 }
