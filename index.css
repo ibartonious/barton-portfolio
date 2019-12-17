@@ -81,7 +81,7 @@ header table {
     margin:0px auto;
 }
 #logo {
-    font-size:24px;
+    font-size:26px;
     color:rgb(12, 132, 237);
 }
 #navigation {
@@ -278,6 +278,7 @@ header table {
     padding:10vh 0px;
     text-align:center;
     font-weight:bold;
+    font-size: 10px;
 }
 #footer a {
     color:rgb(12, 132, 237);
